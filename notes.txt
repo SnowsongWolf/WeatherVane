@@ -1,0 +1,8 @@
+parly cloudy 	Pc
+cloudy 		c
+partly sunny	Po
+sunny		o
+Rain		r
+Thunder		T
+Snow		S
+Fog		F
